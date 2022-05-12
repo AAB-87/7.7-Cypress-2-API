@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "cy:dash": "cypress run --record --key 78925d74-d333-4d34-b772-53983a9164bf"
   },
   "author": "Andrey A.",
   "license": "ISC",
